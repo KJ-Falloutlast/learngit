@@ -1,3 +1,3 @@
-this is good!
-you are welcomed
+Git is a version control system.
+Git is free software.
 
